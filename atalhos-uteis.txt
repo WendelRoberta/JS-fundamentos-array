@@ -1,0 +1,13 @@
+ctrl + shift + a = adciona comentario em bloco
+ctrl + / = adiciona comentario em linha
+ctrl + shift + k =  apaga linha
+ctrl + seta pra cima ou pra baixo = muda a linha
+ de lugar
+ctrl + shift + cima ou baixo = copia uma linha
+  pra cima ou pra baixo
+ctrl + shift + l + seta = adiciona cursor as linhas
+
+
+
+
+
